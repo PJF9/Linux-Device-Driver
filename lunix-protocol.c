@@ -8,10 +8,6 @@
  * It receives raw packet data from the Lunix line discipline
  * and updates the relevant sensor structures with the
  * newly received measured values.
- *
- * Ioannis Panagopoulos <ioannis@cslab.ece.ntua.gr>
- * Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
- *
  */
 
 #include <linux/kernel.h>

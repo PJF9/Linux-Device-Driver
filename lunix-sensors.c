@@ -3,9 +3,6 @@
  *
  * Sensor buffer management
  * for Lunix:TNG
- *
- * Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
- *
  */
 
 #include <linux/mm.h>

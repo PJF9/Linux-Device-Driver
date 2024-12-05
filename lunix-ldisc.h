@@ -3,9 +3,6 @@
  *
  * Definition file for the
  * Lunix:TNG TTY line discipline
- *
- * Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
- *
  */
 
 #ifndef _LUNIX_LDISC_H

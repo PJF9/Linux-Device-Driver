@@ -4,10 +4,6 @@
  * Definitions file for the implementation of the
  * protocol used by the wireless sensor network to report
  * back on the measurements of individual sensors.
- *
- * Ioannis Panagopoulos <ioannis@cslab.ece.ntua.gr>
- * Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
- *
  */
 
 #ifndef _LUNIX_PROTOCOL_H

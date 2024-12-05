@@ -2,9 +2,6 @@
  * lunix-main.c
  *
  * Main module file for Lunix:TNG
- *
- * Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
- *
  */
 
 #include <linux/slab.h>
@@ -110,7 +107,7 @@ static void __exit lunix_module_cleanup(void)
  * Module information section
  */
 
-MODULE_AUTHOR("Vangelis Koukis");
+MODULE_AUTHOR("Peter Jacob Floratos");
 MODULE_LICENSE("GPL");
 
 module_param(lunix_sensor_cnt, int, 0);

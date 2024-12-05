@@ -2,9 +2,6 @@
  * lunix-ldisc.c
  *
  * TTY line discipline for Lunix:TNG
- *
- * Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
- *
  */
 
 #include <linux/tty.h>

@@ -4,10 +4,6 @@
  * Computes the temperature and battery
  * lookup tables for converting 16-bit raw measurements
  * from the wireless sensors to actual floating point values.
- *
- * Ioannis Panagopoulos <ioannis@cslab.ece.ntua.gr>
- * Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
- *
  */
 
 #include <math.h>

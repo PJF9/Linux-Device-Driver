@@ -2,9 +2,6 @@
  * lunix.h
  *
  * Definition file for Lunix:TNG
- *
- * Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
- *
  */
 
 #ifndef _LUNIX_H
