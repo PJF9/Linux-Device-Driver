@@ -8,9 +8,6 @@
  * [net-tools Debian package].
  *
  * Must be run with root privilege.
- *
- * Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
- *
  */
 
 #include <pwd.h>
